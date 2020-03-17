@@ -16,7 +16,17 @@
 <img src="https://raw.githubusercontent.com/zer0lightning/all-confs/master/superputty.png" alt="SuperPutty"
 	title="SuperPutty Multiple Tabs" width="550" height="350" />
 
+**Sample SuperPutty Sessions**
 
+Save it as Sessions.XML and import it. You can add as many sessions using the GUI or XML.
+Configure the IP and Port to your own settings.
+```
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSessionData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SessionData SessionId="Imported/Term 1-1" SessionName="Term 1-1" ImageKey="computer" Host="10.0.0.1" Port="1441" Proto="Telnet" PuttySession="Default Settings" Username="" ExtraArgs="" SPSLFileName="" RemotePath="" LocalPath="" />
+  <SessionData SessionId="Imported/Term 1-2" SessionName="Term 1-2" ImageKey="computer" Host="10.0.0.2" Port="1442" Proto="Telnet" PuttySession="Default Settings" Username="" ExtraArgs="" SPSLFileName="" RemotePath="" LocalPath="" />
+</ArrayOfSessionData2
+```
 
 **Entering JunOS Bootloader**
 
