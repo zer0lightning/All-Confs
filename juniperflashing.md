@@ -72,6 +72,9 @@ request system halt at now
 ```
 
 **Unset Commands**
+
+If you are having issues downloading the signed packages, getting IP use this unset commands.
+
 ```
 unset gateway
 unset netmask
