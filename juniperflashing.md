@@ -30,7 +30,8 @@ Configure the IP and Port to your own settings.
 
 **Entering JunOS Bootloader**
 
-- [Recovery](https://www.juniper.net/documentation/en_US/junos/topics/task/configuration/authentication-root-password-recovering-qfx-series.html)
+> [Recovery](https://www.juniper.net/documentation/en_US/junos/topics/task/configuration/authentication-root-password-recovering-qfx-series.html)
+> ***SuperPutty*** - Power on switches, then press Space + Enter repeatedly.
 
 **EX4300 Enterprise Switch** 
 ```
