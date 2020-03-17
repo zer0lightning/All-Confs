@@ -13,6 +13,11 @@
 
 - Set Shortcut to switch tabs easily
 
+<img src="https://raw.githubusercontent.com/zer0lightning/all-confs/master/superputty.png" alt="SuperPutty"
+	title="SuperPutty Multiple Tabs" width="550" height="350" />
+
+
+
 **Entering JunOS Bootloader**
 
 - [Recovery](https://www.juniper.net/documentation/en_US/junos/topics/task/configuration/authentication-root-password-recovering-qfx-series.html)
